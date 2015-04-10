@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info>
+	<id>activity</id>
+	<name>Out-Of-Band Activity</name>
+	<description>
+		The Out-Of-Band Activity app modifies the original app activity version 1.1.23, provided for ownCloud, to use its own external ("out-of-band") database for activity data. 
+		The Out-Of-Band Activity app was only tested for ownCloud 7.0.4 and PostgreSQL 9.3.6.
+	</description>
+	<licence>AGPL</licence>
+	<author>Iuri Malinoski</author>
+	<shipped>true</shipped>
+	<default_enable/>
+	<documentation>
+		https://github.com/Malinoski/activity
+	</documentation>
+	<require>4.9</require>
+	<types>
+	<filesystem/>
+	</types>
+	<ocsid>166038</ocsid>
+</info>
